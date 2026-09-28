@@ -48,3 +48,7 @@ joiden avulla sivun ulkoasu muuttuu eri kokoisilla näytöillä. */
 img {
   width: 100%;
 }
+/*Pokemonkuvan koko*/
+#kuva2 img {
+  width: 150px;
+}
