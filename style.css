@@ -3,6 +3,12 @@ p {
   margin-bottom: 1rem;
 }
 
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
 main {
   background-color: white;
   font-family: Arial, Helvetica, sans-serif;
