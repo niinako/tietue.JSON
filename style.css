@@ -43,7 +43,7 @@ joiden avulla sivun ulkoasu muuttuu eri kokoisilla näytöillä. */
 }
 
 img {
-  width: 100%;
+  width: 50%;
 }
 /* Pokemonkuvan koko */
 #kuva2 img {
