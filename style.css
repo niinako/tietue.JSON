@@ -38,6 +38,10 @@ joiden avulla sivun ulkoasu muuttuu eri kokoisilla näytöillä. */
   --bs-breakpoint-xxl: 1400px;
 }
 
+.navbar .nav-link:hover {
+  color: #8800ff !important;
+}
+
 img {
   width: 100%;
 }
